@@ -1,3 +1,5 @@
+version = "1.0"
+
 train {
     step preprocess {
         image = "quay.io/basisai/workload-standard:v0.2.2"
